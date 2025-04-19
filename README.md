@@ -1,2 +1,3 @@
-# Market-Basket-Analysis
- Discover the product relationships in the groceries using MBA association Rule Mining
+ Predict the occurrence of the Heart Disease,
+       Through Logistic Regression.
+
