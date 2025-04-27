@@ -20,6 +20,3 @@ Originally sourced from the UCL Machine Learning Repository, the dataset used to
 predict heart disease is currently hosted on the "data. World" platform.
 
 Report Contains the Implementation Of R using Logistic Regression To Predict Heart Disease
-<video src="videos/your-video.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
